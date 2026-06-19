@@ -1,4 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="=uw%~ULNW;}_M:J,7+lw" x="386" y="-104"></block><block type="pxt-on-start" id="4{5tG/ed,Q*g@|A!u1~8" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=")CtL2}/$kVN)G@Ey{T|]"><field name="LEDS">`
+        # # # . . 
+        . . . # # 
+        . . . # # 
+        . . . # # 
+        # # # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="5RCvIGgj5M4hv}x$9xe/" x="819" y="112"><field name="NAME">Gesture.Shake</field></block></xml>
